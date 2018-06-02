@@ -1,0 +1,12 @@
+---
+slug: :mikutter-subparts-image
+depends:
+  mikutter: '3.2'
+  plugin:
+  - gtk
+  - openimg
+  - uitranslator
+version: '7.0.1'
+author: moguno
+name: "subparts image"
+description: 画像をインライン表示します。
