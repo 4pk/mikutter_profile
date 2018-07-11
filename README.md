@@ -1,3 +1,5 @@
 # mikutter_profile
-my mikutter profiles
 これなん
+自分のよく使う.mikutter/pluginフォルダの中身です
+settingなどまで拡張し，ショートカットなども共有できるようにアプデ予定
+twitterのCK/CSはGentoo for mikutterとYorufukuro の２種類ありますが，自由にお使いください
